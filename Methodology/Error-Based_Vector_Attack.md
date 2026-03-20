@@ -1,7 +1,7 @@
 
 
 **Metadata:**
-* **Parent Link:** [[SQL_Injection-Master_Guide]]
+* **Parent Link:** [SQL_Injection-Master_Guide](./SQL_Injection-Master_Guide.md)
 
 ---
 

@@ -1,6 +1,6 @@
 
 **Metadata:**
-* **Parent Link:** [[SQL_Injection-Master_Guide]]
+* **Parent Link:** [SQL_Injection-Master_Guide](./SQL_Injection-Master_Guide.md)
 
 ## 1. Objective (Mục tiêu Kỹ thuật)
 Mỗi hệ quản trị cơ sở dữ liệu (**DBMS**) triển khai một hệ phương ngữ (**SQL Dialect**) với các hàm nội trú (built-in functions) và cú pháp riêng biệt. Việc xác định chính xác nền tảng **DBMS** ở Backend là bước tiền quyết để định hình các **Payload** khai thác trong các giai đoạn tiếp theo.
