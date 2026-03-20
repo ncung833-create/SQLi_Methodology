@@ -1,6 +1,6 @@
 
 **Metadata:**
-* **Parent Link:** [SQL_Injection-Master_Guide](SQL_Injection-Master_Guide.md)
+* **Parent Link:** [SQL_Injection-Master_Guide](../SQL_Injection-Master_Guide.md)
 
 ## 1. The Golden Rules of UNION (Quy tắc Cốt lõi của UNION)
 Để một cuộc tấn công **UNION-based SQLi** thực thi thành công, câu truy vấn được tiêm (Injected Query) phải tuân thủ nghiêm ngặt 2 quy tắc của **RDBMS**:

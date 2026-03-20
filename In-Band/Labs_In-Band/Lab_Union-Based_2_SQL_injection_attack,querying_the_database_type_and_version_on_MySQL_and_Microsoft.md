@@ -1,7 +1,7 @@
 
 **Metadata:**
 * **Target:** [PortSwigger Lab: Querying the database type and version on MySQL and Microsoft](https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft)
-***Prerequisite Knowledge:** Cần nắm vững kỹ thuật tìm số lượng cột và cột chứa kiểu String ở bài viết [Methodology_Column&Data_Type_Enumeration](./Methodology_Column&Data_Type_Enumeration.md) và Xác định hệ quản trị ở bài viết [Methodology_Column&Data_Type_Enumeration](./Methodology_Column&Data_Type_Enumeration.md)
+***Prerequisite Knowledge:** Cần nắm vững kỹ thuật tìm số lượng cột và cột chứa kiểu String ở bài viết [Methodology_Column&Data_Type_Enumeration](../../Methodology/Methodology_Column&Data_Type_Enumeration.md) và Xác định hệ quản trị ở bài viết [Methodology_Column&Data_Type_Enumeration](../../Methodology/Methodology_Column&Data_Type_Enumeration.md)
 
 ---
 
